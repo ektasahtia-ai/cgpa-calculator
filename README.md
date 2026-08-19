@@ -3,7 +3,7 @@
 A simple web application to calculate CGPA using HTML, CSS, and JavaScript.
 
 ## Features
-- Easy CGPA calculation
+- Easy CGPA calculations
 - Clean and responsive UI
 - Beginner-friendly project
 
