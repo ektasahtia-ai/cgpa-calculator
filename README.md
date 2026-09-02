@@ -1,4 +1,4 @@
-# Student CGPA Calculator 🎓
+# Student CGPA Calculator
 
 A simple web application to calculate CGPA using HTML, CSS, and JavaScript.
 
